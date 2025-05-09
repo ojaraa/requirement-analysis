@@ -57,7 +57,7 @@ The objective of a Use Case Diagram is to show a visual representation of intera
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team.
 
-## Use Case Diagram for the Booking System
+### Use Case Diagram for the Booking System
 ![Use Case Diagram for a booking system like AirBnB](./alx-booking-uc.png)
 
 ## Acceptance Criteria.
