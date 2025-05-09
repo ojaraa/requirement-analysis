@@ -57,6 +57,9 @@ The objective of a Use Case Diagram is to show a visual representation of intera
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team.
 
+## Use Case Diagram for the Booking System
+![Use Case Diagram for a booking system like AirBnB](./alx-booking-uc.png)
+
 ## Acceptance Criteria.
 Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders — such as the client, product owner, or end-user. They act as a bridge between business requirements and technical implementation, ensuring clarity, alignment, and shared understanding among all team members.
 ### Importance of Acceptance Criteria
